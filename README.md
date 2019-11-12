@@ -4,7 +4,7 @@ This Python script computes the deadlines of the Intro to Self-Driving Cars nano
 Example:
 
 ```
-python compute-deadlines.py 
+$ python compute-deadlines.py 
 PROJECTS:
 1. Joy Ride
 2. Implement a Matrix Class
